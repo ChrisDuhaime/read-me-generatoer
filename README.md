@@ -8,7 +8,6 @@
 
 https://drive.google.com/file/d/1Uo5pOzeKapdJPId6iy6yZ_wNDKkUy9Hn/view ------Google Drive screencastify link of application
 
-https://github.com/ChrisDuhaime/read-me-generatoer
+https://github.com/ChrisDuhaime/read-me-generator
 
 
-"C:\Users\16035\OneDrive\Desktop\read-me-generator"

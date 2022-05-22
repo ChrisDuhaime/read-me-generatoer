@@ -1,9 +1,9 @@
-### Project 1
+### j
 
  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
 ## Description
-project to create README.md file
+j
 ***  
 ## Table of Contents
 * [Installation](#installation)
@@ -19,7 +19,7 @@ npm i
 
 ## Usage
 
-generates README.md files based on user input
+j
 
 ## License
 
@@ -27,7 +27,7 @@ Apache_2.0
 
 ## Contributing
 
-pull request
+j
 
 ## Tests
 
@@ -37,8 +37,8 @@ npm test
 
 ## Questions
 
-If you have any questions about the repo contact me directly at c.duhaime27@gmail.com.  
+If you have any questions about the repo contact me directly at j.  
 
-Github username is ChrisDuhaime
+Github username is j
      
 
