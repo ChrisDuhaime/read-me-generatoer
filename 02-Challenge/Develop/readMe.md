@@ -1,9 +1,9 @@
-### j
+### Test Project
 
  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
 ## Description
-j
+Test Project
 ***  
 ## Table of Contents
 * [Installation](#installation)
@@ -19,7 +19,7 @@ npm i
 
 ## Usage
 
-j
+Test Repo
 
 ## License
 
@@ -27,7 +27,7 @@ Apache_2.0
 
 ## Contributing
 
-j
+Pull Request
 
 ## Tests
 
@@ -37,8 +37,8 @@ npm test
 
 ## Questions
 
-If you have any questions about the repo contact me directly at j.  
+If you have any questions about the repo contact me directly at c.duhaime27@gmail.com.  
 
-Github username is j
+Github username is ChrisDuhaime
      
 
